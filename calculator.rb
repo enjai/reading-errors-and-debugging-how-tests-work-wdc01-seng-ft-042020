@@ -1,5 +1,5 @@
 # Add your variables here
-def first_number(num) 
+def first_number 
   first_number = num
 end
 
